@@ -31,5 +31,3 @@ Currently pursuing the Google Cybersecurity Professional Certificate, a comprehe
 <a href="http://www.github.com/cyb-sehgal"><img src="https://github-readme-stats.vercel.app/api?username=cyb-sehgal&show_icons=true&hide=prs,issues,&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="cyb-sehgal's GitHub stats" /></a>
 
 <a href="http://www.github.com/cyb-sehgal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb-sehgal&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/cyb-sehgal"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cyb-sehgal&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
