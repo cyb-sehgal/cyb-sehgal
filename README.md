@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/cyb-sehgal/cyb-sehgal/blob/main/git%20banner.jpg)
+![MasterHead](https://github.com/cyb-sehgal/cyb-sehgal/blob/main/Git%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">Cybersecurity Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"
