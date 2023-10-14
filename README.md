@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/cyb-sehgal/cyb-sehgal/blob/main/Git%20Banner.jpg)
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hi There, I'm Rahul</h1>
 <h3 align="center">Cybersecurity Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyb-sehgal&label=Profile%20views&color=0e75b6&style=flat" alt="cyb-sehgal" /> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Cyber Security | Ethical Hacking**
 
-- 👯 I’m looking to collaborate on **cyber security**
+- 👯 I’m looking to collaborate on **Cyber Security | Ethical Hacking Projects**
 
 - 💬 Ask me about **Cyber Security | Ethical Hacking**
 
