@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/cyb_sehgal" target="blank"><img src="https://img.shields.io/twitter/follow/cyb_sehgal?logo=twitter&style=for-the-badge" alt="cyb_sehgal" /></a> </p>
 
-- 🔭 I’m currently working on **SEIM TOOL**
+- 🔭 I’m currently working on **SIEM TOOL**
 
 - 🌱 I’m currently learning **Cyber Security | Ethical Hacking**
 
